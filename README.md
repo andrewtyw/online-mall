@@ -13,7 +13,7 @@ Elective courses project
 * 密码: 123456
 
 ## 后端代码结构(serverV2)
-
+src.main.java.com.example.serverv2 中的内容为主要的后端代码
 ```
 |-- serverV2
     |-- .gitignore
@@ -183,7 +183,7 @@ Elective courses project
 ```
 
 ## 前端代码结构(serverV2)
-
+shopvue.src  下的内容为主要的前端代码
 ```
 |-- shopvue
     |-- .gitignore
