@@ -10,6 +10,12 @@ Elective courses project
 ### 网址:
 http://120.24.230.237/home
 
+### 界面功能
+![image](https://user-images.githubusercontent.com/78400045/151667760-f15620b7-6c32-4baf-831f-cb2c0b74729c.png)
+![image](https://user-images.githubusercontent.com/78400045/151667767-ef6ac9b3-e4e7-4c82-93dc-65f2bd117e48.png)
+![image](https://user-images.githubusercontent.com/78400045/151667788-451dc408-cb79-4bd6-b198-fd440aa13a57.png)
+
+
 ### 测试账号:
 1. 用户(你也可以自己注册一个账号)
 * 账户名: tywang
