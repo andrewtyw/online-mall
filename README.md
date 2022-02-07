@@ -1,31 +1,28 @@
 # online-mall
-Elective courses project
+Project of course Network Application Development
 
-### 姓名
-王天寅
+### technology stack
+springboot, mysql, mybatis, vue, element plus
 
-### 学号
-2019301424**
-
-### 网址:
+### 网址(url):
 http://120.24.230.237/home
 
-### 界面功能
+### 界面功能(User Interface)
 ![image](https://user-images.githubusercontent.com/78400045/151667760-f15620b7-6c32-4baf-831f-cb2c0b74729c.png)
 ![image](https://user-images.githubusercontent.com/78400045/151667767-ef6ac9b3-e4e7-4c82-93dc-65f2bd117e48.png)
 ![image](https://user-images.githubusercontent.com/78400045/151667788-451dc408-cb79-4bd6-b198-fd440aa13a57.png)
 
 
-### 测试账号:
-1. 用户(你也可以自己注册一个账号)
-* 账户名: tywang
-* 密码: 123456
+### 测试账号(Available Account. You can also register one):
+1. 用户(Buyer account)
+* 账户名(username): tywang
+* 密码(password): 123456
 
-2. 商家(你也可以自己注册一个账号)
-* 账户名: Apple旗舰店
-* 密码: 123456
+2. 商家(seller account)
+* 账户名(username): Apple旗舰店
+* 密码(password): 123456
 
-## 后端代码结构(serverV2)
+## 后端代码结构(File structure of Web service)
 src.main.java.com.example.serverv2 中的内容为主要的后端代码
 ```
 |-- serverV2
@@ -195,7 +192,7 @@ src.main.java.com.example.serverv2 中的内容为主要的后端代码
 
 ```
 
-## 前端代码结构(serverV2)
+## 前端代码结构(File structure of user interface)
 shopvue.src  下的内容为主要的前端代码
 ```
 |-- shopvue
